@@ -1,5 +1,5 @@
 <p align="left"> 
-  Hi there, my name is Leo! <br><strong>I am a military and Web Developer</strong>.
+  Hi there, my name is Leo!🤓 <br><strong>I am a military and Web Developer</strong>.
 </p>
 
 <p align="left">
