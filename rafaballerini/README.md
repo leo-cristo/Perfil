@@ -1,21 +1,26 @@
-## Leo!
-<div align="center">
-  <a href="https://github.com/leo-cristo/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-cristo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-cristo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<p align="left"> 
+  Hi there, my name is Leo! <br><strong>I am a military and Web Developer</strong>.
+</p>
 
-</div>
+<p align="left">
+  Feel free to reach out for me: ⤵️
+</p>
+
+<p align="left">
   
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/thayslimeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/leonardo-de-cristo-4654b02a3/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1c1424?style=for-the-badge&logo=Linkedin&logoColor=3CBFB2&link=https://www.linkedin.com/in/leonardo-fs/"/>
+  </a>
+  
+  <a href="mailto:leocristo523@gmail.com" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-1c1424?style=for-the-badge&logo=gmail&logoColor=3CBFB2"/>
+  </a>
+</p>
+
+##
+
+<div align="left">
+  <a href="https://github.com/leo-cristo">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-cristo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leo-cristo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
