@@ -20,7 +20,7 @@
 ##
 
 <div align="left">
-  <a href="https://github.com/leo-cristo">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-cristo&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leo-cristo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/leofsantos">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofsantos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=leofsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
